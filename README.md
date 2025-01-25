@@ -8,3 +8,7 @@ I will demonstrate what I've learned so far, simple things like:
 - Pictures
 - Numbered and unnumbered lists
 - Internal links
+
+# CSS Update 1
+
+New knowledge, CSS time. Update 1
